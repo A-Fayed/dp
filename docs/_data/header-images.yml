@@ -1,0 +1,4 @@
+- name: Discover
+  image: "/assets/images/banner-image.png"
+- name: Community
+  image: "/assets/images/moata.png"
